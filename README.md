@@ -26,7 +26,9 @@ The primary source of data used here is Sales Data.csv and this is an open sourc
 - Power BI for visualisation
 
 ## Data Cleaning and Preparation
-In this phase of my analysis, i performed the following actions
+In this phase of my analysis, i performed the following actions;
+- Data loading
+- 
 
 
 
