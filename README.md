@@ -28,7 +28,11 @@ The primary source of data used here is Sales Data.csv and this is an open sourc
 ## Data Cleaning and Preparation
 In this phase of my analysis, i performed the following actions;
 - Data loading
-- 
+- Blank Value Check: Verified the dataset for blank values
+- Data Type Conversion: Converted specified columns to text format for consistency
+- Data Standardization: Reformatted date columns to YYYY-MM-DD for uniformity
+- Duplicate Removal: Removed duplicate rows to ensure unique records, resulting in
+  
 
 
 
