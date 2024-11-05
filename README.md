@@ -33,7 +33,7 @@ In this phase of my analysis, i performed the following actions;
 - Data Standardization: Reformatted date columns to YYYY-MM-DD for uniformity
 - Duplicate Removal: Removed duplicate rows to ensure unique records, resulting in
   
+## Exploratory Data Analysis
 
 
 
-##
