@@ -15,14 +15,14 @@ The dataset contains the following columns:
 - Order Date: The date the order was placed
 - Quantity: The number of units purchased for each product in an order
 - Unit Price: The price per unit of a product
-- Sales: The sales value for an order, calculated as Qunatity * Unit Price
+- Sales: The sales value for an order, calculated as Quantity * Unit Price
 
 ## Data Sources
 The primary source of data used here is Sales Data.csv and this is an open source data that can be freely downloaded from an open source online such as Kaggle or FRED, though this dataset was given by the Incubator Hub.
 
 ## Tools Used
 - Microsoft Excel for data cleaning, analysis and visualisation
-- SQL(Structured Query Language) foe data querying
+- SQL (Structured Query Language) foe data querying
 - Power BI for visualisation
 
 ## Data Cleaning and Preparation
@@ -31,7 +31,7 @@ In this phase of my analysis, i performed the following actions;
 - Blank Value Check: Verified the dataset for blank values
 - Data Type Conversion: Converted specified columns to text format for consistency
 - Data Standardization: Reformatted date columns to YYYY-MM-DD for uniformity
-- Duplicate Removal: Removed duplicate rows to ensure unique records, resulting in
+- Duplicate Removal: Removed duplicate rows to ensure unique records. 40,079  duplicates were found and removed left with 9,921 unique values out of 50,000 records that was given in the dataset.
   
 ## Exploratory Data Analysis
 
