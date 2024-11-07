@@ -41,9 +41,9 @@ The dataset contains the following columns:
 The primary source of data used here is Sales Data.csv and this is an open source data that can be freely downloaded from an open source online such as Kaggle or FRED, though this dataset was given by the Incubator Hub.
 
 ### Tools Used
-- Microsoft Excel for data cleaning, analysis and visualisation
-- SQL (Structured Query Language) foe data querying
-- Power BI for visualisation
+- *Microsoft Excel*: for data cleaning, analysis and visualisation
+- *SQL (Structured Query Language)*: for data querying
+- *Power BI*: for visualisation
 
 ### Data Cleaning and Preparation
 In this phase of my analysis, i performed the following actions:
