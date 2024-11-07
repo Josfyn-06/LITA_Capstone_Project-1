@@ -3,6 +3,26 @@ My first practical application of data analysis concepts learned during my studi
 
 ## Project Title: Sales Data
 
+## Table of Contents
+[Project Overview](#project-overview)
+
+[Dataset](#dataset)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualisation](#data-visualisation)
+
+[Insights](#insights)
+
+
 ## Project Overview
 This project aims to analyse the sales data of a retail store to gain insights into customer purchasing behaviour, product performance, regional and monthly sales trends in order to make informed business decisions. 
 
