@@ -109,7 +109,15 @@ In this phase of my analysis, i explored the dataset to answer important questio
     order by month (OrderDate)
     ```
 
-    
+### Data Visualisation
+
+![Sales Data-Excel](https://github.com/user-attachments/assets/aedf20b7-408c-4e31-b8d7-072d67817b28)
+
+
+
+![Sales Data - Power BI](https://github.com/user-attachments/assets/d511f902-7100-4293-bf7e-39eaa51c6b2d)
+
+
 
 
 
